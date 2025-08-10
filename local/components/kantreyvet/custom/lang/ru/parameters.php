@@ -1,0 +1,31 @@
+<?
+$MESS["DOCTOR_SCHEDULE_LIST_IBLOCKS_SETTINGS"] = "Настройки инфоблоков";
+$MESS["DOCTOR_SCHEDULE_LIST_DISPLAY_SETTINGS"] = "Настройки отображения";
+$MESS["DOCTOR_SCHEDULE_LIST_AJAX_SETTINGS"] = "AJAX настройки";
+$MESS["DOCTOR_SCHEDULE_LIST_CACHE_SETTINGS"] = "Настройки кеширования";
+
+$MESS["DOCTOR_SCHEDULE_LIST_SERVICES_IBLOCK_ID"] = "Инфоблок услуг";
+$MESS["DOCTOR_SCHEDULE_LIST_REGIONALITY_IBLOCK_ID"] = "Инфоблок региональности";
+
+$MESS["DOCTOR_SCHEDULE_LIST_ELEMENTS_COUNT"] = "Количество элементов";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_SEARCH"] = "Показать поиск";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_SPECIALIZATION_FILTER"] = "Показать фильтр по специализации";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_REGION_FILTER"] = "Показать фильтр по регионам";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_PHOTO"] = "Показать фото";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_CONTACTS"] = "Показать контакты";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_SECTION_NAME"] = "Показать название секции";
+$MESS["DOCTOR_SCHEDULE_LIST_SHOW_DETAIL_LINK"] = "Показать ссылку на детальную страницу";
+$MESS["DOCTOR_SCHEDULE_LIST_HIDE_RECORD_BUTTON"] = "Скрыть кнопку записи";
+$MESS["DOCTOR_SCHEDULE_LIST_DEFAULT_REGION_ID"] = "ID региона по умолчанию";
+
+$MESS["DOCTOR_SCHEDULE_LIST_TYPE_MAP"] = "Тип карты";
+
+$MESS["DOCTOR_SCHEDULE_LIST_USE_AJAX"] = "Использовать AJAX";
+$MESS["DOCTOR_SCHEDULE_LIST_AJAX_MODE"] = "AJAX режим";
+
+$MESS["DOCTOR_SCHEDULE_LIST_CACHE_TYPE"] = "Тип кеширования";
+$MESS["DOCTOR_SCHEDULE_LIST_CACHE_TYPE_AUTO"] = "Авто + Управляемое";
+$MESS["DOCTOR_SCHEDULE_LIST_CACHE_TYPE_YES"] = "Кешировать";
+$MESS["DOCTOR_SCHEDULE_LIST_CACHE_TYPE_NO"] = "Не кешировать";
+$MESS["DOCTOR_SCHEDULE_LIST_CACHE_TIME"] = "Время кеширования (сек.)";
+?>
